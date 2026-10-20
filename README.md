@@ -2,7 +2,7 @@
 
 A tiny, cute, pink converter: kilograms → pounds and Celsius → Fahrenheit. Live results as you type, works offline.
 
-**Live:** `https://<username>.github.io/convert/` (update after deploying)
+**Live:** https://ckopp22.github.io/Convert/
 
 ## Install on your phone
 - **iPhone:** open in Safari → Share → **Add to Home Screen**
