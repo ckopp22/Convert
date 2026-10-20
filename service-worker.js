@@ -1,4 +1,4 @@
-const CACHE = 'convert-v10';
+const CACHE = 'convert-v11';
 const ASSETS = [
   './',
   './index.html',
